@@ -1,2 +1,2 @@
 # portfolio
-Lea Portfolio
+I am Lea. This is my Portfolio
