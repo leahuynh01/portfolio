@@ -2,3 +2,25 @@
 ---
 
 @import "{{ site.theme }}";
+@import "minimal";
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+header {
+    flex: 0 0 250px; /* Adjust the width of the left section */
+    padding: 20px;
+    background-color: #f8f9fa; /* Light background */
+}
+
+section {
+    flex: 1;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
