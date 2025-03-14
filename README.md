@@ -14,7 +14,7 @@ Check my portfolio for a deep dive into my work! 👀
     justify-content: center;
   }
   .project-card {
-    width: 250px;
+    width: 350px;
     overflow: hidden;
     margin: 15px;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
@@ -27,9 +27,10 @@ Check my portfolio for a deep dive into my work! 👀
   .project-card h3 a {
     text-decoration: none;
     color: #333;
+    padding: 10px;
   }
   .project-card p {
-    padding: px;
+    padding: 10px;
   }
 </style>
 
