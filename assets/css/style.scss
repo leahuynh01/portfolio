@@ -7,9 +7,13 @@
 .wrapper {
     // display: flex;
     // flex-direction: row;
-    margin: 0 auto; /* Centers the element horizontally */
-    max-width: 1000px; /* Limits the width */
+    // margin: 0 auto; /* Centers the element horizontally */
+    // max-width: 1000px; /* Limits the width */
+    width:1000px;
+    margin:0 auto;
 }
+
+
 
 // header {
 //     flex: 0 0 180px; /* Adjust the width of the left section */
@@ -21,6 +25,12 @@
 //     flex: 1;
 //     padding: 20px;
 // }
+
+section {
+    width:1000px;
+    float:right;
+    padding-bottom:50px;
+  }
 
 // img {
 //     max-width: 100%;
