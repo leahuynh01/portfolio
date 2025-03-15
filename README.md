@@ -1,4 +1,4 @@
-Check out my portfolio <a href="https://leahuynh01.github.io/portfolio/"></a> here!
+Check out my portfolio <a href="https://leahuynh01.github.io/portfolio/">here!</a> 
 
 <!-- # Data Science Portfolio
 
