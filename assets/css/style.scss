@@ -4,13 +4,21 @@
 @import "{{ site.theme }}";
 @import "minimal";
 
+* {
+  box-sizing: border-box;
+}
+
 .wrapper {
     width:1250px;
     margin:0 auto;
+    overflow: hidden;
 }
 
-// section {
-//     width:900px;
-//     float:right;
-//     padding-bottom:50px;
-//   }
+section {
+    width:100%;
+    max-width: 900px;
+    margin: 0 auto;
+    float:right;
+    padding-bottom:50px;
+    clear: both;
+  }
