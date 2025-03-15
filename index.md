@@ -1,8 +1,7 @@
 
 # Data Science Portfolio
 
-I currently develop data science projects focusing on solving business problem. My approach for each project includes understanding business problems, analyzing data, extracting insights, and implementing solutions then updating the solution with the newest technology!
-
+I currently develop data science projects focusing on solving business problem. 
 Check my portfolio for a deep dive into my work! 👀
 
 ---
@@ -74,50 +73,3 @@ Check my portfolio for a deep dive into my work! 👀
 ---
 
 <!-- 🔗 Check out my <a href="https://github.com/yourusername">GitHub</a> for more projects! -->
-
-
-<!-- <table>
-  <tr>
-    <td>
-      <img src="https://via.placeholder.com/300" width="300" alt="Project 1 Image">
-    </td>
-    <td>
-      <h3><a href="https://github.com/yourusername/project1">🗄 Project's name</a></h3>
-      <p>📅 Jan 20, 2020</p>
-      <p>Description</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td>
-      <img src="https://via.placeholder.com/300" width="300" alt="Project 2 Image">
-    </td>
-    <td>
-      <h3><a href="https://github.com/yourusername/project2">🧠 Project's name</a></h3>
-      <p>📅 Dec 10, 2019</p>
-      <p>Description</p>
-    </td>
-  </tr>
-</table>
-
---- -->
-
-<!-- <table>
-  <tr>
-    <td>
-      <img src="https://via.placeholder.com/300" width="300" alt="Project 3 Image">
-    </td>
-    <td>
-      <h3><a href="https://github.com/yourusername/project3">🗄 DavisBase: A Custom Designed Database (Python)</a></h3>
-      <p>📅 Dec 2, 2019</p>
-      <p>A fully functional, SQL-compliant database implemented from scratch in Python. DavisBase compresses data to a custom-designed bit-level encoding for maximal data compression.</p>
-    </td>
-  </tr>
-</table>
-
---- -->
-
