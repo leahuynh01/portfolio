@@ -1,5 +1,6 @@
+Check out my portfolio <a href="https://leahuynh01.github.io/portfolio/"></a> here!
 
-# Data Science Portfolio
+<!-- # Data Science Portfolio
 
 I currently develop data science projects focusing on solving business problem. My approach for each project includes understanding business problems, analyzing data, extracting insights, and implementing solutions then updating the solution with the newest technology!
 
@@ -61,7 +62,7 @@ Check my portfolio for a deep dive into my work! 👀
 
 ---
 
-🔗 Check out my <a href="https://github.com/yourusername">GitHub</a> for more projects!
+🔗 Check out my <a href="https://github.com/yourusername">GitHub</a> for more projects! -->
 
 
 <!-- <table>

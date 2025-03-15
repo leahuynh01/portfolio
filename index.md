@@ -29,8 +29,16 @@ Check my portfolio for a deep dive into my work! 👀
     color: #333;
   }
   .project-card p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     padding: px;
   }
+  .github-badge img {
+    width: 150px;
+    height: auto;
+  }
+
 </style>
 
 <div class="project-container">
@@ -38,9 +46,13 @@ Check my portfolio for a deep dive into my work! 👀
   <div class="project-card">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*u4EBes6Muu2fy7iM8igMug.jpeg" alt="Project 1 Image">
     <h3><a href="https://github.com/yourusername/project1">🖥 Project name</a></h3>
-    <p>📅 Jan 20, 2020</p>
+    <p>📅 Jan 20, 2020</p> 
     <p>Description within 2 to 3 sentences</p>
   </div>
+  
+<!-- 
+    <p>📅 Jan 20, 2020 <a href=https://github.com class = "github-badge" target = "_blank"><img src=https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub alt = "github icon"> </a> </p> 
+     -->
 
   <div class="project-card">
     <img src="https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg" alt="Project 2 Image">
