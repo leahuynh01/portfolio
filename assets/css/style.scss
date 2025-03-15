@@ -2,12 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
-// @import "minimal";
+@import "minimal";
 
-// .wrapper {
-//     display: flex;
-//     flex-direction: row;
-// }
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto; /* Centers the element horizontally */
+    max-width: 400px; /* Limits the width */
+}
 
 // header {
 //     flex: 0 0 180px; /* Adjust the width of the left section */

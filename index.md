@@ -27,12 +27,13 @@ Check my portfolio for a deep dive into my work! 👀
   .project-card h3 a {
     text-decoration: none;
     color: #333;
+    padding: 10px;
   }
   .project-card p {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: px;
+    padding: 10px;
   }
   .github-badge img {
     width: 150px;
@@ -72,7 +73,7 @@ Check my portfolio for a deep dive into my work! 👀
 
 ---
 
-🔗 Check out my <a href="https://github.com/yourusername">GitHub</a> for more projects!
+<!-- 🔗 Check out my <a href="https://github.com/yourusername">GitHub</a> for more projects! -->
 
 
 <!-- <table>
