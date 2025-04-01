@@ -24,16 +24,18 @@ Check my portfolio for a deep dive into my work! 👀
     height: auto;
   }
   .project-card h3 a {
+    margin: 0;
     text-decoration: none;
     color: #333;
     padding: 10px;
   }
   .project-card p {
+    margin: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    line-height: 0.1;
+    line-height: 1.5;
   }
   .github-badge img {
     width: 150px;
@@ -43,17 +45,15 @@ Check my portfolio for a deep dive into my work! 👀
 </style>
 
 <div class="project-container">
-<!--   
-  <div class="project-card">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*u4EBes6Muu2fy7iM8igMug.jpeg" alt="Project 1 Image">
-    <h3><a href="https://github.com/yourusername/project1">🖥 Project name</a></h3>
-    <p>📅 Jan 20, 2020</p> 
-    <p>Description within 2 to 3 sentences</p>
-  </div> -->
   
-<!-- 
-    <p>📅 Jan 20, 2020 <a href=https://github.com class = "github-badge" target = "_blank"><img src=https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub alt = "github icon"> </a> </p> 
-     -->
+  <div class="project-card">
+    <img src="images/churn.png" alt="Churn Image">
+    <h3><a href="https://leahuynh01.github.io/Customer-Churn-Prediction-Bank-/">🖥 Customer Churn Prediction (Bank)</a></h3>
+    <p>📅 March 20, 2025    <a href="https://github.com/leahuynh01/Customer-Churn-Prediction-Bank-" class = "github-badge" target = "_blank"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt = "github icon"> </a> </p> 
+    <p>Customer churn is a critical issue for Banks, leading to revenue loss, low customer engagement and increased acquisition costs. This project aims to predict customer churn by identifying key factors influencing retention and enabling businesses to take proactive measures.</p>
+
+  </div>
+
 <!-- 
   <div class="project-card">
     <img src="https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg" alt="Project 2 Image">
@@ -69,7 +69,7 @@ Check my portfolio for a deep dive into my work! 👀
     <p>Description within 2 to 3 sentences</p>
   </div>
 
-</div> -->
+</div>
 
 ---
 
