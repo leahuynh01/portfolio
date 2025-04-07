@@ -54,6 +54,16 @@ Check my portfolio for a deep dive into my work! 👀
 
   </div>
 
+<div class="project-container">
+  
+  <div class="project-card">
+    <img src="images/segmentation.png" alt="Customer Segmentation">
+    <h3><a href="https://leahuynh01.github.io/Customer-Segmentation-Online-Retail/">🖥 Retail Customer Segmentation and Product Recommendation</a></h3>
+    <p>📅 April 06, 2025    <a href="https://github.com/leahuynh01/Customer-Segmentation-Online-Retail" class = "github-badge" target = "_blank"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt = "github icon"> </a> </p> 
+    <p>This project segments retail customers using RFM analysis and K-Means clustering, followed by product recommendations with the Apriori algorithm, aiming to improve targeted marketing and customer experience.</p>
+
+  </div>
+
 <!-- 
   <div class="project-card">
     <img src="https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg" alt="Project 2 Image">
