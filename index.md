@@ -1,7 +1,7 @@
 
 # Data Science Portfolio
 
-I currently develop data science projects focusing on solving business problem. 
+I am currently developing data science projects focusing on solving business problem. 
 Check my portfolio for a deep dive into my work! 👀
 
 ---
@@ -48,7 +48,7 @@ Check my portfolio for a deep dive into my work! 👀
   
   <div class="project-card">
     <img src="images/churn.png" alt="Churn Image">
-    <h3><a href="https://leahuynh01.github.io/Customer-Churn-Prediction-Bank-/">🖥 Customer Churn Prediction (Bank)</a></h3>
+    <h3><a href="https://leahuynh01.github.io/Customer-Churn-Prediction-Bank/">🌱 Customer Churn Prediction (Bank)</a></h3>
     <p>📅 March 20, 2025    <a href="https://github.com/leahuynh01/Customer-Churn-Prediction-Bank-" class = "github-badge" target = "_blank"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt = "github icon"> </a> </p> 
     <p>Customer churn is a critical issue for Banks, leading to revenue loss, low customer engagement and increased acquisition costs. This project aims to predict customer churn by identifying key factors influencing retention and enabling businesses to take proactive measures.</p>
 
@@ -58,7 +58,7 @@ Check my portfolio for a deep dive into my work! 👀
   
   <div class="project-card">
     <img src="images/segmentation.png" alt="Customer Segmentation">
-    <h3><a href="https://leahuynh01.github.io/Customer-Segmentation-Online-Retail/">🖥 Retail Customer Segmentation and Product Recommendation</a></h3>
+    <h3><a href="https://leahuynh01.github.io/Customer-Segmentation-Online-Retail/">🌱 Retail Customer Segmentation and Product Recommendation</a></h3>
     <p>📅 April 06, 2025    <a href="https://github.com/leahuynh01/Customer-Segmentation-Online-Retail" class = "github-badge" target = "_blank"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt = "github icon"> </a> </p> 
     <p>This project segments retail customers using RFM analysis and K-Means clustering, followed by product recommendations with the Apriori algorithm, aiming to improve targeted marketing and customer experience.</p>
 
